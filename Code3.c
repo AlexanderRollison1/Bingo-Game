@@ -1,4 +1,4 @@
-// Alexander Rollison 1001681800
+// Alexander Rollison
 //For the Pick New Number, Try copy pasting the code into it's seperate file and sort the numbers. It will give you randomized numbers 1-75 no repeats.
 
 //BONUS: Works for Diagonals
